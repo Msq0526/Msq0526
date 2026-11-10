@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C4DFF,100:FF6B6B&height=220&section=header&text=Msq&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%20%C2%B7%20%E5%90%83%E9%A5%AD%E7%9D%A1%E8%A7%89%E7%9C%8B%E7%BE%8E%E5%A5%B3&descAlignY=62&descSize=18" alt="Msq banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C4DFF,100:FF6B6B&height=220&section=header&text=Msq&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%20%C2%B7%20%E5%90%83%E9%A5%AD%E7%9D%A1%E8%A7%89%E6%89%93%E8%B1%86%E8%B1%86&descAlignY=62&descSize=18" alt="Msq banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -64,7 +64,7 @@ currently_learning: 如何优雅地躺平
 | :---: | :---: | --- |
 | 🍚 吃饭 | 满级 | 一天三顿，顿顿不落，偶尔加个夜宵 |
 | 😴 睡觉 | 宗师 | 沾枕头就着，闹钟叫不醒 |
-| 👀 看美女 | 每日必修 | 只看不撩，文明欣赏 |
+| 👀 美女 | 每日必修 | 只看不撩，文明欣赏 |
 | 🎮 游戏 | 资深 | 又菜又爱玩 |
 | 🐟 摸鱼 | 隐形冠军 | 带薪发呆，专业选手 |
 
