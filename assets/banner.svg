@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Msq">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="0.5" stop-color="#7c4dff"/>
+      <stop offset="1" stop-color="#ff6b6b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#00d9ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="260" fill="#0b1020"/>
+  <rect width="1200" height="260" fill="url(#glow)"/>
+  <g opacity="0.9">
+    <circle cx="980" cy="130" r="150" fill="none" stroke="url(#g)" stroke-width="2" opacity="0.55"/>
+    <circle cx="980" cy="130" r="105" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.35"/>
+    <circle cx="980" cy="130" r="60" fill="none" stroke="url(#g)" stroke-width="1" opacity="0.25"/>
+    <circle cx="980" cy="130" r="10" fill="#00d9ff" filter="url(#blur)" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.25;0.8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="72" y="138" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="86" font-weight="800" fill="#ffffff" letter-spacing="-2">Msq</text>
+  <text x="76" y="184" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" letter-spacing="6" fill="#9aa7bd">吃喝玩乐 · 吃饭睡觉看美女</text>
+  <rect x="76" y="206" width="220" height="4" rx="2" fill="url(#g)"/>
+</svg>
