@@ -29,7 +29,7 @@ focus: 吃喝玩乐
 skills:
   - 吃饭
   - 睡觉
-  - 看美女
+  - 打游戏
   - 摸鱼
 currently_learning: 如何优雅地躺平
 ```
